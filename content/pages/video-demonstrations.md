@@ -16,6 +16,6 @@ The videos below feature the course instructor, Dr. John Germaine, demonstrating
 Lab 1: Data Acquisition and Instruments
 ---------------------------------------
 
-Part A: The running time for the video is approximately 15 minutes. ([MP4 - 33MB](https://archive.org/download/MIT1.103S04/mit-ocw-1.103-lab-part-a-300k.mp4))
+Part A: The running time for the video is approximately 15 minutes. ({{% resource_link "d1aab597-dc6b-4114-8707-0c9ee905be43" "MP4 - 33MB" %}})
 
-Part B: The running time for the video is approximately 9 minutes.  ([MP4 - 20MB](https://archive.org/download/MIT1.103S04/mit-ocw-1.103-lab-part-b-300k.mp4))
+Part B: The running time for the video is approximately 9 minutes.  ({{% resource_link "9a8c1198-f49b-4fb8-9941-bb2a6ac0c715" "MP4 - 20MB" %}})
