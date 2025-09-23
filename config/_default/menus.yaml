@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 9df93141-a12d-8f30-b7ea-47543a78160c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 592efbd1-e948-a89f-cc32-5cdc69fad0d8
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: ceadcd63-d6dd-fe94-8798-195723bb10fa
+  name: Labs
+  pageRef: /pages/labs
+  weight: 30
+- identifier: e96b654e-9d6b-4acd-3e68-cd86105313ee
+  name: Video Demonstrations
+  pageRef: /pages/video-demonstrations
+  weight: 40
