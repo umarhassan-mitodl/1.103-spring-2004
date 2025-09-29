@@ -4,6 +4,8 @@ description: This ZIP file contains data files associated with Lab 7.
 file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/f27f27ef3fce63a63d8d447ed4eec2e9_groupA1.zip
 file_size: 35896
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

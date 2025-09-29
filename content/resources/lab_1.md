@@ -4,6 +4,8 @@ description: Instructions for laboratory assignment.
 file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/f75be888182135889f32bd0e5c0a480a_lab_1.pdf
 file_size: 125532
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

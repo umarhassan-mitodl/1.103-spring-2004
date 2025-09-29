@@ -4,6 +4,8 @@ description: Data file for Lab 2.
 file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/8b1231dd6bd05239b94ebca4f9663f10_b1long.txt
 file_size: 31382
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

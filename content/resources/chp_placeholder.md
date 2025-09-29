@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-103-civil-engineering-materials-laboratory-spring-2004/bb0f0fd35006351591d99b45c0827eb4_chp_placeholder.jpg
 file_size: 7401
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
